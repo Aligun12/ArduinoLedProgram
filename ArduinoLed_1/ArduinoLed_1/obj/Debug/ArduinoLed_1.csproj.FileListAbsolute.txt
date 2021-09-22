@@ -1,0 +1,10 @@
+C:\Users\Aligun\source\repos\ArduinoLed_1\ArduinoLed_1\bin\Debug\ArduinoLed_1.exe.config
+C:\Users\Aligun\source\repos\ArduinoLed_1\ArduinoLed_1\bin\Debug\ArduinoLed_1.exe
+C:\Users\Aligun\source\repos\ArduinoLed_1\ArduinoLed_1\bin\Debug\ArduinoLed_1.pdb
+C:\Users\Aligun\source\repos\ArduinoLed_1\ArduinoLed_1\obj\Debug\ArduinoLed_1.csprojAssemblyReference.cache
+C:\Users\Aligun\source\repos\ArduinoLed_1\ArduinoLed_1\obj\Debug\ArduinoLed_1.Form1.resources
+C:\Users\Aligun\source\repos\ArduinoLed_1\ArduinoLed_1\obj\Debug\ArduinoLed_1.Properties.Resources.resources
+C:\Users\Aligun\source\repos\ArduinoLed_1\ArduinoLed_1\obj\Debug\ArduinoLed_1.csproj.GenerateResource.cache
+C:\Users\Aligun\source\repos\ArduinoLed_1\ArduinoLed_1\obj\Debug\ArduinoLed_1.csproj.CoreCompileInputs.cache
+C:\Users\Aligun\source\repos\ArduinoLed_1\ArduinoLed_1\obj\Debug\ArduinoLed_1.exe
+C:\Users\Aligun\source\repos\ArduinoLed_1\ArduinoLed_1\obj\Debug\ArduinoLed_1.pdb
